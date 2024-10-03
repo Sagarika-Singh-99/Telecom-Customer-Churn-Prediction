@@ -25,4 +25,4 @@ To run the project and perform customer churn prediction:
 * README.md: This README file providing an overview of the project and instructions for usage.
 * requirements.txt: File listing the required Python libraries and their versions.
 ## Contributors
-Utkarsh Singh
+SS
